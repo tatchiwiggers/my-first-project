@@ -1,3 +1,1 @@
-# new function
-def hello(name):
-    return f"Hello {name}"
+# empty file as per PR.
